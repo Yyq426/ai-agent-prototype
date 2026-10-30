@@ -1,6 +1,6 @@
 # AI Agent Prototype
 
-个人 AI Agent 学习实践项目，从零实现 Agent 的几个核心机制，作为 AI / 多模态信息融合方向的技术能力佐证。
+个人 AI Agent 学习实践项目，从零实现 Agent 的几个核心机制。
 
 ## 项目概述
 
